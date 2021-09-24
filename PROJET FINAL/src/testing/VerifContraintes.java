@@ -1,7 +1,5 @@
 package testing;
 
-import classes.*;
-
 public class VerifContraintes {
 	public boolean idPositif(int id) {
 
